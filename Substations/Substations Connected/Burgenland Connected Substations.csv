@@ -1,0 +1,18 @@
+﻿full_id;osm_id;osm_type;frequency;location;name;operator;power;substation;voltage;building;roof:shape;access;barrier;ref;addr:city;addr:country;addr:housenumber;addr:postcode;addr:street;at_bev:addr_date
+83424897;way;50;outdoor;UW Mattersburg;BEWAG;substation;transmission;110000;;;;;;;;;;;;
+60222001;way;;;Umspannwerk Frauenkirchen;BEWAG;substation;;"110000;20000";;;1;no;fence;;;;;;;
+82201785;way;;;Umspannwerk Neusiedl;"BEWAG;Verbund Austrian Power Grid AG";substation;transmission;"220000;110000";;;3;;;;;;;;;
+94372577;way;50;outdoor;Umspannwerk Markt Sankt Martin;BEWAG;substation;distribution;110000;;;4;;;;;;;;;
+96693577;way;50;outdoor;Umspannwerk Parndorf-Walzwerk;BEWAG;substation;distribution;110000;;;7;;;;;;;;;
+97207142;way;50;outdoor;Umspannwerk Oberpullendorf;Energie Burgenland AG;substation;distribution;110000;;;8;;fence;;;;;;;
+97217194;way;50;outdoor;Umspannwerk Güssing;BEWAG;substation;distribution;110000;;;9;;;;;;;;;
+97218204;way;50;outdoor;Umspannwerk Eltendorf;BEWAG;substation;transmission;"110000;20000";;;10;;;;;;2;;Marbachstraße;
+97224226;way;50;outdoor;Umspannwerk Stegersbach;BEWAG;substation;distribution;110000;;;11;;;;;;;;;
+97224229;way;50;outdoor;Umspannwerk Pinkafeld;;substation;distribution;110000;;;12;;;;;;;;;
+97226005;way;50;outdoor;UW Jennersdorf (ib);;substation;distribution;110000;;;13;;;;;;;;;
+97264200;way;50;outdoor;Umspannwerk Deutschkreutz;BEWAG;substation;distribution;110000;;;14;;;;;;;;;
+97586384;way;50;outdoor;Umspannwerk Neudörfl;;substation;transmission;110000;;;15;;;;;;;;;
+118927581;way;50;outdoor;Umspannwerk Pama;;substation;distribution;110000;;;16;;;;;;;;;
+171066516;way;;;Umspannwerk Zurndorf;"Austrian Power Grid AG;Energie Burgenland AG";substation;transmission;"380000;110000";;;18;;;;;;;;;
+81684898;way;;;Umspannwerk Südburgenland/Rotenturm;Verbund Austrian Power Grid AG;substation;transmission;"380000;110000";;;2;;;;;;;;;
+96689254;way;50;;UW Eisenstadt (ib);;substation;;"110000;20000";;;6;;;;Eisenstadt;AT;86;7000;Neusiedler Straße;01.04.2019

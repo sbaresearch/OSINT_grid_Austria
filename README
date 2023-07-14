@@ -1,0 +1,33 @@
+The power grid model data we used and processed from OpenStreetMap are as followed:
+
+Connection Power Plants-Substations:
+This data set contains the power plants connected to the closest substation. We used QGIS to calculate the
+distance between the OSM objects. 
+
+Connection Substations-Communities:
+This data set contains the communities connected to the closest substation. The substations were filtered
+with regard to its attributes of voltage levels.  We used QGIS to calculate the distance. 
+
+Consumption:
+Aggregated consumtion, spatially and temporally distributed to individual communities. 
+
+Power Lines:
+The power lines are from OSM and (a) provided before processing and (b) after processing them with Python.
+
+(a)Lines total: OSM inferred power lines with 110 kV, 220kV and 380kV voltage levels to model the power grid.
+(b)Lines_Splitted_Parameter: Power lines after splitting them into their systems with Python and calculated 
+parameters (resistance R, reactance X)
+
+Power Plants:
+These data sets contain the inferred OSM objects with regard to power plants. Different OSM keys and values
+result in three different data sets. 
+
+Substations:
+The substations are provided in two different ways:
+
+(a) Substations Filtered: Contains a filtered data set from the inferred OSM objects with regard to the
+voltage level.
+(b) Substations Connected: Contains the substations, which were used to connect to the communities. 
+
+
+

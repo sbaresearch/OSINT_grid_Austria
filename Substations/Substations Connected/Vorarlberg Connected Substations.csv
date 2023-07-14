@@ -1,0 +1,27 @@
+﻿full_id;osm_id;osm_type;building;building:levels;addr:street;name;operator;power;roof:shape;substation;location;addr:city;addr:country;addr:housenumber;addr:postcode;voltage;level;frequency;ref;barrier;fence_type;ele;access;checked;plant:method;plant:output:electricity;plant:source;website;wikidata;wikipedia;generator:count;generator:type;plant:output:hot_water;source_ref;landuse;UID;addr:place;contact:email;contact:fax;contact:phone;contact:website;at_bev:addr_date;start_date
+116018035;way;;;Umspannwerk Andelsbuch;110000;;substation;;;;;;;;;;14;;;;;;;;;;;;;;;;;;;;;;;;;;
+26524546;way;;;Umspannwerk Brederis;110000;Vorarlberger Energienetze GmbH;substation;;transmission;;;;;;;;1;;;;;;;;;;;;;;;;;;;;;;;;;;
+101997887;way;;;Umspannwerk Bürs;"380000;220000";Vorarlberger Illwerke AG;substation;;;;;;;;;;10;;;;;;;;;;;;;;;;;;;;;;;;;;
+102699327;way;;;Umspannwerk Bürs;110000;Vorarlberger Energienetze GmbH;substation;;;;;;;;;;11;;;;;;;;;;;;;;;;;;;;;;;;;;
+169304139;way;;;Umspannwerk Feldkirch;110000;;substation;;transmission;;;;;;;;27;;;;;;;;;;;;;;;;;;;;;;;;;;
+32293834;way;;;Umspannwerk Frastanz;110000;;substation;;transmission;;;;;;;;2;;;;;;;;;;;;;;;;;;;;;;;;;;
+114715432;way;;;Umspannwerk Gisingen;110000;Vorarlberger Energienetze GmbH;substation;;transmission;;;;;;;;12;;;;;;;;;;;;;;;;;;;;;;;;;;
+169361887;way;;;Umspannwerk Götzis;110000;Vorarlberger Energienetze GmbH;substation;;;;;;;;;;28;;;;;;;;;;;;;;;;;;;;;;;;;;
+362660200;way;;;Umspannwerk Hard;110000;Vorarlberger Energienetze GmbH;substation;;;;;;;;;;40;;;;;;;;;;;;;;;;;;;;;;;;;;
+123384821;way;;;Umspannwerk Haselstauden;110000;Vorarlberger Energienetze GmbH;substation;;;;;;;;;;21;;;fence;;;private;;;;;;;;;;;;;;;;;;;;
+93044006;way;;;Umspannwerk Höchst;110000;Vorarlberger Energienetze GmbH;substation;;;;;;;;;;7;;;;;;;;;;;;;;;;;;;;;;;;;;
+123689023;way;;;Umspannwerk Hohenems;110000;Vorarlberger Energienetze GmbH;substation;;;;;;;;;;22;;;fence;;;;;;;;;;;;;;;;;;;;;;;
+123173012;way;;;Umspannwerk Lustenau;110000;Vorarlberger Energienetze GmbH;substation;;;;;;;;;;17;;;;;;;;;;;;;;;;;;;;;;;;;;
+61108302;way;;;Umspannwerk Meiningen;"380000;220000";Vorarlberger Energienetze GmbH;substation;;;;Meiningen;AT;20;6812;Lutta;;5;;;fence;;;;;;;;;;;;;;;;;;;;;;;
+119687430;way;;;Umspannwerk Nenzing;110000;;substation;;;;;;;;;;16;;;fence;;;;;;;;;;;;;;;;;;;;;;;
+193604569;way;yes;;Umspannwerk Rauz;110000;Vorarlberger Energienetze GmbH;substation;;;;Klösterle;AT;3a;6762;Rauz;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+114873634;way;;;Umspannwerk Rieden;110000;Illwerke VKW;substation;;;;;;;;;;13;;;;;;;;;;;;;;;;;;;;;;;;;;
+118248006;way;;;Umspannwerk Riezlern (i.B.);110000;;substation;;transmission;;;;;;;;15;;;;;;;;;;;;;;;;;;;;;;;;;;
+123174725;way;;;Umspannwerk Rodund I;110000;Vorarlberger Illwerke AG;substation;;transmission;;;;;;;;18;;;;;645;;;;;;;;;;;;;;;;;;;;;
+219909161;way;;;Umspannwerk Rodund II;220000;;substation;;transmission;;;;;;;;33;;;;;;;;;;;;;;;;;;;;;;;;;;
+129643773;way;;;Umspannwerk Tschagguns;110000;Vorarlberger Energienetze GmbH;substation;;transmission;;;;;;;;25;;;;;;;;;;;;;;;;;;;;;;;;;;
+123175366;way;;;Umspannwerk Vermuntwerk (i.B.);110000;;substation;;generation;;;;;;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;
+40641599;way;;;Umspannwerk Vorderwald;110000;Vorarlberger Energienetze GmbH;substation;;;;;;;;;;4;;;;;;;;;;;;;;;;;;;;;;;;;;
+100478972;way;;;Umspannwerk Weiler - Klaus;110000;Vorarlberger Energienetze GmbH;substation;;;;Weiler;AT;4;6837;Herzogried;;8;;;fence;;;;;;;;;;;;;;;;;;;;;;;
+83529203;way;;;Umspannwerk Werben - Dornbirn;"220000;110000";Vorarlberger Energienetze GmbH;substation;;transmission;;;;;;;;6;50;;fence;chain_link;;;;;;;;;;;;;;;;;;;;;;
+31428153;way;AT;492;Umspannwerk Walgauwerk (i.B.);220000;Vorarlberger Illwerke AG;water-storage;;;;;1;6710;Eichholz;yes;;;;;;;Walgaukraftwerk;;;94 MW;hydro;plant;Q2542250;de:Walgauwerk;Nenzing;francis_turbine;;;;;;;;;;;;

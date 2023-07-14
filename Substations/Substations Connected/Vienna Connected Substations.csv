@@ -1,0 +1,14 @@
+﻿full_id;osm_id;osm_type;building;frequency;location;name;operator;power;substation;type;voltage;wikidata;wikipedia;addr:city;addr:country;addr:housenumber;addr:postcode;addr:street;start_date;street_cabinet;at_bev:addr_date;designation;image;abandoned:power;building:levels;Wien;barrier;alt_name;ref;man_made;fence_type;official_name;landuse;plant:method;plant:output:electricity;plant:output:hot_water;plant:source;website;generator:method;generator:output:electricity;generator:output:hot_water;generator:source
+119489306;way;;;;Kabelüberführungsstation 400kV-1GW-Nordeinspeisung;Wien Energie;substation;transition;;400000;;;;;;;;;;;;;;;;12;;;;;;;;;;;;;;;;
+134565164;way;;;;Kabelüberführungsstation Pfarrgasse;;substation;transition;;380000;;;;;;;;;;;;;;;;15;;;;;;;;;;;;;;;;
+138407044;way;yes;;;Schaltanlage Simmering;;substation;transmission;;"380000;110000";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+228731882;way;yes;;;Umspannwerk Aspern;;substation;;;110000;;;Wien;AT;4;1220;Böckingstraße;;;01.10.2017;;;;;;;;;;;;;;;;;;;;;;
+28766884;way;;50;outdoor;Umspannwerk Kaiserebersdorf;Wien Energie;substation;distribution;;110000;;;;;;;;;;;;;;;;7;;;;;;;;;;;;;;;;
+205801468;way;;50;indoor;Umspannwerk Liesing;Wien Energie;substation;distribution;;110000;;;;;;;;;;;;;;;;24;fence;;;;;;;;;;;;;;;
+26644088;way;;;;Umspannwerk Wien Nord;;substation;transmission;;"380000;110000";;;;;;;;;;;;;;;;3;;;;;;;;;;;;;;;;
+27795895;way;;;;Umspannwerk Wien Südost;Austrian Power Grid AG;substation;transmission;;"380000;220000;110000";Q998879;de:Umspannwerk Wien-Südost;;;;;;;;;;;;;;5;fence;;;;;;;;;;;;;;;
+26209260;way;;50;outdoor;Umspannwerk Wien West;Wien Energie GmbH;substation;transmission;;110000;;;;;;;;1952;;;;;;;;2;fence;Umspannwerk West;;;;;;;;;;;;;;
+135260775;way;;50;outdoor;UW Kraftwerk Donaustadt;;substation;transmission;;110000;;;;;;;;;;;;;;;;16;;;;;;;;;;;;;;;;
+123115522;way;;50;outdoor;UW Kraftwerk Simmering (ib);;substation;transition;;110000;;;;;;;;;;;;;;;;13;;;;;;;;;;;;;;;;
+376356832;way;;50;outdoor;UW Leopoldau (ib.);Wien Energie;substation;distribution;;110000;;;;;;;;;;;;;;;;50;;;;;;;;;;;;;;;;
+33750614;way;;50;outdoor;UW Wulzendorf (ib);;substation;transition;;110000;;;;;;;;;;;;;;;;8;fence;;;;;;;;;;;;;;;
